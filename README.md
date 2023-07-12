@@ -17,10 +17,10 @@ This is a Python script that scrapes data from Wikipedia pages and saves them as
 
     ```
 
-3. Create a Google API project and enable the Google Sheets API. Download the credentials file as ***credentials.json*** and place it in the same folder as the script.
+3. Create a Google API project and enable the Google Sheets API. Download the credentials file as ```credentials.json``` and place it in the same folder as the script.
 
-4. Run the script using ***python scrape_wiki.py***.
+4. Run the script using ```python3 word_frequency.py```.
 
-5. Enter the name of the Google Sheet you want to create or use. If it does not exist, it will be created automatically.
+5. Enter the name of the Google Sheet you want to create or use.
 
 6. The script will scrape the data from the Wikipedia page and save it as a Google Sheet in your Google Drive. You can view and edit the sheet online.
