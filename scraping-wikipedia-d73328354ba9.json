@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "scraping-wikipedia",
+  "private_key_id": "d73328354ba93a6d996f7363b83c4b0e28c1e6a7",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDfAfz6tuqLGh/h\nUvP6iD1Oy3HS1EJc8E626VIBR116IWye1hrBys/3x1L5fcbVmLdhWwNB5359mlgu\nTocunJqxb9mcK09VPxRWH5gWP+t2a/jbmFYyVFo1WPKmdzyDM8uq6rOx08Mm8P/N\n6OHHNkjYzsaKTyZpNhipUsd9qMb1jcTQBqKNiHfYHJRaHhXuKwVNSpfNEYFlMVoH\nRe/uN6RpdLgT192xpU5L7MD17dY2BnGh2o3d4zJe0qrFWUJ7TeBlHbw4pG+dl/Dm\nEGpZzyZmUG0gKxV+LJIkfd7QqAIBxTihMcZYlFQKg42AYyTfrYJRpv4FFCX0tKOY\nnNGm0IO9AgMBAAECggEAJnWDEaDUg59Cgrsp2NnAivNygou5EyqdRJWp3w8V659S\ninT9odCue3qMUHsUvJbs/zTxM58u9Q3WacwAq7T1x6Z0tqZQdPDfOrgRpDqrSp21\nyfc0XFMoSH15wWQcUzsuQ2BdE4yj4fYbg4EHWPH/b6Z/XnBmfSwHZkIgpcbi4wtY\nxzNROh20LjZE6HQ88JV16cya3/uV7mm0C/iwrLDfE66kqAPK8jIXKClh8IrTN4OM\nUbgecH22LrWADogCOKipYcLv/Dh5u+J1vRDpaNDGh1HhKRp7Hj5X5nGdx/sY4WUu\nAiLBEvd3Z6MxwWavTU4eDGTK5i+8EL57912GyfWnuQKBgQD0yRqyzJ6THtDbCo5g\nPQ9MEEjIp4sTQDPLxdV636ncMuFHMbbJwDHPB7NY5+AlrtJtHmakc9IFy8LHBbz0\noeQ9mIjcVCnwtgBjm3ROpKxuvArTQ1ZsYgM2S9BzDOjZF5KeM8bMfswlapBMYqTJ\ne1lyX7Ws5i5hU6sWgAAVaJDEuQKBgQDpOXgqonqSUWwiQZO+cFvdIhv+pHP0hf+2\ny7nF7U7HmyfQ1oWleNNrSH4xfHlAD7pWiSOxIxPTcQI/hAQX+Lq6nLEDFmrygQEP\nZnGVLpO05Np7ded+uG7S/IbjOeBymi8VUjQEC0Wmqecdvth5UxfgwLiq2EsYK3Jl\nF+Yf6SQ9JQKBgQDlXQqHPvPXJqjMlbeStaP/wcJxQYwvHZlq9pRx7eFbUtGDxDFi\nGZSSSMTkKWD97jF9zV6f+WZxx9taYSYMkyUqEiMrUDF8Ow1iR+dTSTnJCKmcCxyP\nsccQuTk4lIAZ6tyXICzGsIjZBmDvMf72S34kjUnOGGCdEajeDFIHvVLpAQKBgFYw\n4vP+sAW7CZdvXMaYh5qlrGrjI+dOTj6j87fuB5tE/+XyIdoRWTDgzaJEOhsutNKe\nRA6GxCD0Nrx6cXjad0fX+KMHeea9PkMOvRNA711+5i+SV0dBqdNXeBIppYU07gmX\nI5oLAGaji8I2cZIE32I0VwrsfHQmOlSaDHXml3nxAoGAY4POmDQg2Nreh0d6izLZ\novuBP2V/vHA0qoOQ3xrbS3ABNFWZtx1RHfgc+0ekIZHRLdl0jTBSvhRXw9F0weBg\nmePjVLSmAPNQdbtNujatnnX6qch6rmcPUmmHcsJdzCfk9MOU6jSYNa2DXU1tXL2I\n7slKh9JS0IHAwpNIGPWEFIo=\n-----END PRIVATE KEY-----\n",
+  "client_email": "sajid-621@scraping-wikipedia.iam.gserviceaccount.com",
+  "client_id": "101234011706671883422",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/sajid-621%40scraping-wikipedia.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
