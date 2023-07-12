@@ -6,11 +6,9 @@ This is a Python script that scrapes data from Wikipedia pages and saves them as
 
 1. Clone this repository. Then use the following commands to activate virtualenv:
 
-     a) python3 -m venv env
+     ```a) python3 -m venv env```
 
-    ```
-       b) source env/bin/activate 
-    ```
+    ```b) source env/bin/activate ```
 
 2. Install the required modules using 
     
