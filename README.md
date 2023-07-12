@@ -2,7 +2,7 @@
 
 This is a Python script that scrapes data from Wikipedia pages and saves them as Google Sheets. It uses the requests, BeautifulSoup, gspread and oauth2client modules to perform the scraping and the sheet operations.
 
-#How to use
+## How to use
 
 1. Clone this repository. Then use the following commands to activate virtualenv:
 
