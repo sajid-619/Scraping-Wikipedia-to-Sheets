@@ -23,8 +23,8 @@ def insert_into_sheets(sorted_word_count):
     credentials = service_account.Credentials.from_service_account_file("scraping-wikipedia-d73328354ba9.json", scopes=["https://www.googleapis.com/auth/spreadsheets"])
     service = build("sheets", "v4", credentials=credentials)
 
-    spreadsheet_id = "1L9p0u1IGwRej2BsHQ8T0b3g0UA1-8cOlzfuJ33q7Gh8"  # Replace with your Google Sheets spreadsheet ID
-    sheet_name = "Sheet1"  # Replace with your sheet name
+    spreadsheet_id = "<your-Google-Sheet-id>"  # Replace with your Google Sheets spreadsheet ID
+    sheet_name = "<your-Google-Sheet-name>"  # Replace with your sheet name
 
     values = []
     for word, count in sorted_word_count:
